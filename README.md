@@ -8,7 +8,7 @@
 # USE THE SCRIPT :
 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/StaryLOL/Levitate/mainscript.lua'))()
-```
+[loadstring(game:HttpGet('https://raw.githubusercontent.com/StaryLOL/Levitate/mainscript.lua'))()
+](https://raw.githubusercontent.com/StaryLOL/Levitate/main/Loader.lua)```
 
 # All of the games are in development, all versions are beta
