@@ -6,9 +6,8 @@
   Skywars |https://www.roblox.com/games/8542259458/SkyWars|
 
 # USE THE SCRIPT :
-
 ```lua
-[loadstring(game:HttpGet('https://raw.githubusercontent.com/StaryLOL/Levitate/mainscript.lua'))()
-](https://raw.githubusercontent.com/StaryLOL/Levitate/main/Loader.lua)```
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/main/Loader.lua", true))()```
 
 # All of the games are in development, all versions are beta
