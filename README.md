@@ -11,4 +11,28 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/main/Loader.lua", true))()
 ```
 
-# All of the games are in development, all versions are beta
+# CHANGE LOG : 4/22/24
+> Improved killaura
+> TargetHud
+> Hitboxes
+  > Team ChecK
+  > Size Slider
+
+
+
+
+
+# TODO :
+> More TargetHud (Universal)
+> Better KA (BridgeDuels)
+> Speed Dropdown
+  > Cframe Speed
+  > TP Speed 
+
+> Sword Fight Suport 
+ > Killaura
+ > LargeSword (hitbox)
+ > Anticheat disabler (time steal game)
+
+
+
