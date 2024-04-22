@@ -31,7 +31,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/mai
   - Cframe Speed
   - TP Speed 
 
-- Sword Fight Suport 
+# - Sword Fight Suport 
  - Killaura
  - LargeSword (hitbox)
  - Anticheat disabler (time steal game)
