@@ -24,14 +24,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/mai
 
 
 
-## TODO :
+# TODO :
 - More TargetHud (Universal)
 - Better KA (BridgeDuels)
 - Speed Dropdown
   - Cframe Speed
   - TP Speed 
 
-# - Sword Fight Suport 
+### - Sword Fight Suport 
  - Killaura
  - LargeSword (hitbox)
  - Anticheat disabler (time steal game)
