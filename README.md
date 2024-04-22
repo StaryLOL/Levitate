@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/mai
 - TargetHud
 
 - Hitboxes
-  - Team ChecK
+  - Team Check
   - Size Slider
 
 
