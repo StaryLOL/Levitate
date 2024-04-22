@@ -12,27 +12,29 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/mai
 ```
 
 # CHANGE LOG : 4/22/24
-> Improved killaura
-> TargetHud
-> Hitboxes
-  > Team ChecK
-  > Size Slider
+- Improved killaura
+- TargetHud
+
+- Hitboxes
+  - Team ChecK
+  - Size Slider
+
 
 
 
 
 
 # TODO :
-> More TargetHud (Universal)
-> Better KA (BridgeDuels)
-> Speed Dropdown
-  > Cframe Speed
-  > TP Speed 
+- More TargetHud (Universal)
+- Better KA (BridgeDuels)
+- Speed Dropdown
+  - Cframe Speed
+  - TP Speed 
 
-> Sword Fight Suport 
- > Killaura
- > LargeSword (hitbox)
- > Anticheat disabler (time steal game)
+- Sword Fight Suport 
+ - Killaura
+ - LargeSword (hitbox)
+ - Anticheat disabler (time steal game)
 
 
 
