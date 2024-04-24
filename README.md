@@ -15,23 +15,23 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/mai
 
 ```diff
 
--- UNIVERSAL --
+ | UNIVERSAL |
 + AntiAFKKick 
 + SpinBot
 + Speed Mode, WalkSpeed and HeatSeeker 
 
 
--- SWORD FIGHT --
+ | SWORD FIGHT |
 + Sword Fight Support (testing, not released)
  + ShitAura
 
 
--- BRIDGE DUELS -- 
+ | BRIDGE DUELS | 
 
 + SpeedBypass | Made it a keybind for more control
 
 
--- OTHER -- 
+ | OTHER | 
 
 + fixed Hitboxes for mvsd
 ```
