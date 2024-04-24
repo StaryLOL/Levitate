@@ -10,16 +10,31 @@
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/StaryLOL/Levitate/main/Loader.lua", true))()
 ```
-
-# CHANGE LOG : 4/22/24
-- Improved killaura
-- TargetHud
-
-- Hitboxes
-  - Team Check
-  - Size Slider
+# UpdateLog
 
 
+```diff
+
+-- UNIVERSAL --
++ AntiAFKKick 
++ SpinBot
++ Speed Mode, WalkSpeed and HeatSeeker 
+
+
+-- SWORD FIGHT --
++ Sword Fight Support (testing, not released)
+ + ShitAura
+
+
+-- BRIDGE DUELS -- 
+
++ SpeedBypass | Made it a keybind for more control
+
+
+-- OTHER -- 
+
++ fixed Hitboxes for mvsd
+```
 
 
 
